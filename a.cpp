@@ -2,9 +2,9 @@
 using namespace std;
 
 int main() {
-  cout << "huh7" << '\n';
+  cout << "huh3" << '\n';
   printf("aweawe");
-  cout << "huh8" << '\n';
+  cout << "huh9" << '\n';
   printf("QWEQWEQ");
   return 0;
 }
