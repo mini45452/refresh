@@ -6,5 +6,6 @@ int main() {
   printf("aweawe");
   cout << "huh8" << '\n';
   printf("QWEQWEQ");
+  printf("qweqwe");
   return 0;
 }
