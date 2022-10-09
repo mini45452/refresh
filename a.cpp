@@ -7,5 +7,6 @@ int main() {
   cout << "huh9" << '\n';
   printf("QWEQWEQ");
   printf("qweqwe");
+  sdgfdgdfg;
   return 0;
 }
